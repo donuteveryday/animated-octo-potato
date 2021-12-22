@@ -86,7 +86,7 @@ Now, your theme is ready to be deployed. All generated files are located at `out
 
 Clone this repository on own GitHub account and deploy to Netlify:
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/donuteveryday/animated-octo-potato)
 
 ### Deploy to Vercel
 
